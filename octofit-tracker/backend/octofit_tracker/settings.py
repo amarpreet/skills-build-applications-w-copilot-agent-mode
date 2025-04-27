@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-%#!g4fuv##0e34qkp=kus@(h4l_ijnpnfms#_sfogghpyi7272
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', '[REPLACE-THIS-WITH-YOUR-CODESPACE-NAME]-8000.app.github.dev', 'localhost']
 
 
 # Application definition
